@@ -33,7 +33,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: An iteration is a execution of an expression within a computer.
 
-  Researched answer: An iteration is a series of the same steps carried out one after the next. 
+  Researched answer: An iteration is a series of the same steps carried out one after the next.
 
 
 
@@ -47,7 +47,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 6. What is something we did in class this week you found helpful?  
 
-  Your answer: Something we did in class that was helpful this week was pair programming. Having a co-pilot definitely helped at times when I felt stuck or needed another perspective to aid in troubleshooting and correcting errors. 
+  Your answer: Something we did in class that was helpful this week was pair programming. Having a co-pilot definitely helped at times when I felt stuck or needed another perspective to aid in troubleshooting and correcting errors.
 
 
 
@@ -55,12 +55,12 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Research and define the following terms to the best of your ability.
 
-1. GitHub pull request:
+1. GitHub pull request: A pull request is a means of notifying others of the changes made with in a repository.
 
-2. Higher Order Functions:
+2. Higher Order Functions: Are functions that are used within other functions.
 
-3. Jest:
+3. Jest: A framework used for testing JavaScript and checking for errors in code.
 
-4. Objects:
+4. Objects: An entity of sorts that contain data or a value.
 
-5. Classes:
+5. Classes: The element used to make object and summarize data that works with other data.

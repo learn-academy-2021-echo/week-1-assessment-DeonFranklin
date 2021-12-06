@@ -39,7 +39,7 @@ var weekendDays = ["saturday", "sunday"]
 console.log(weekendDays.toUpperCase())
 
 // // a) Your answer: The console will log "SATURDAY","SUNDAY"
-// // b) Verify and explain: .toUpperCase() capitalizes every letter of the string.
+// // b) Verify and explain: When this was executed, I was under the impression this would capitalize the strings. Instead I kept getting the errors that stated .toUpperCase is not a function.
 
 
 // // --------------------5) What will this log?
@@ -48,4 +48,4 @@ var dataTypes = ["number" , "string", "Boolean"]
 console.log(typeof dataTypes.length)
 
 // // a) Your answer: I was and still am unsure about this one. I couldn't find this on the syllabus.
-// // b) Verify and explain: The output was "number", but I do not really understand why I got that result. and would like to get a better understand on this. 
+// // b) Verify and explain: The output was "number", but I do not really understand why I got that result. and would like to get a better understand on this.
