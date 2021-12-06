@@ -25,15 +25,15 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: An index is the position of a character with in a series of characters in a string or an array. A value is data input into one of the primitive data types used to create evaluations.
 
-  Researched answer: An index is the position of a value in within an array.
+  Researched answer: An index is the position of a value in within an array. A value is the data used to describe an element.
 
 
 
 4. What is iteration?
 
-  Your answer:
+  Your answer: An iteration is a execution of an expression within a computer.
 
-  Researched answer:
+  Researched answer: An iteration is a series of the same steps carried out one after the next. 
 
 
 
@@ -41,7 +41,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: Pair programming is the method in which two people work together to write code. The two roles are driver and navigator. The driver is actively coding, while the navigator directs the driver in creating the code.
 
-  Researched answer: Pair programming is when two developers, the driver and the navigator, work together on the same workstation to complete a project. The role of the driver is to be on the keyboard inputting code. The navigator's role is to instruct the driver, and oversee the code being input 
+  Researched answer: Pair programming is when two developers, the driver and the navigator, work together on the same workstation to complete a project. The role of the driver is to be on the keyboard inputting code. The navigator's role is to instruct the driver, and oversee the code being input constantly checking for mistakes.
 
 
 
